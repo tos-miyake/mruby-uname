@@ -1,0 +1,7 @@
+name: mruby-uname
+description: Uname class
+author: tos-miyake
+website: https://github.com/tos-miyake/mruby-uname
+protocol: git
+repository: https://github.com/tos-miyake/mruby-uname.git
+license: MIT
